@@ -37,3 +37,30 @@ O comando acima lista os pacotes instalados. Para desinstalar:
 `obs`: informar o nome do pacote sem a versão
 
 <br/>
+
+### Desatualizados
+
+Como o comando `outdated` é possível verificar os pacotes que estão desatualizados:
+
+    # Local
+    npm outdated
+    
+    # Global
+    npm outdated -g
+    
+`obs` : a coluna `Wanted` possui a versão compatível com a aplicação e a coluna `Latest` mostra a versão mais recente do pacote. 
+
+<br/>
+
+### Atualização
+
+Com o comando acima é possível verificar os pacotes que estão desatualizado. Com o `npm update` é possível atualizar os pacotes para as versões `Wanted`
+
+    # Local
+    npm update
+    
+    # Global
+    npm update -g
+
+
+
