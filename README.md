@@ -4,7 +4,7 @@ Material de referência e consulta de comandos `npm`
 
 Fontes:
 
- - [YouTube] NPM Inc : https://www.youtube.com/channel/UCK71Wk0I45SLTSXQA23GdIw
+ - YouTube : [NPM Inc](https://www.youtube.com/channel/UCK71Wk0I45SLTSXQA23GdIw)
 
 
 <br/>
