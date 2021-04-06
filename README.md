@@ -27,7 +27,7 @@ O comando acima lista os pacotes instalados. Para desinstalar:
     $ npm uninstall -g <nome_pocote>
     
     # ex.:
-    $ npm uninstall -g jshint
+    $ npm uninstall -g @nestjs/cli
   
 `obs`: informar o nome do pacote sem a versão
 
