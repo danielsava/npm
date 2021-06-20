@@ -19,7 +19,17 @@ Para verificar os pacotes `npm instalados`:
     # Global
     $ npm ls -g --depth=0
    
-<br/>   
+<br/>
+
+### Instalando versões específicas
+
+Instalando uma versão específica do Angular CLI:
+
+    $ npm install -g @angular/cli@11.2.4 
+    
+    $ npm install -g @angular/cli@latest
+    
+<br>
 
 ### Uninstall
 
